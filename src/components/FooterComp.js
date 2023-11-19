@@ -12,9 +12,23 @@ const FooterComp = () => {
           <Col className="text-end">
             {" "}
             {/* biar dikanan */}
-            <i class="fa-brands fa-facebook text-white fs-1 mx-lg-3 mx-2"></i>
-            <i class="fa-brands fa-instagram text-white fs-1 mx-lg-3 mx-2"></i>
+            <a
+              href="https://web.facebook.com/muhammadizzuddin.alfatih.9"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i class="fa-brands fa-facebook text-white fs-1 mx-lg-3 mx-2"></i>
+            </a>
+            <a
+              href="https://instagram.com/mialfatih?igshid=OGQ5ZDc2ODk2ZA=="
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i class="fa-brands fa-instagram text-white fs-1 mx-lg-3 mx-2"></i>
+            </a>
+            <a href="https://wa.me/085591415756" target="_blank" rel="noopener noreferrer">
             <i class="fa-brands fa-whatsapp text-white fs-1 mx-lg-3 mx-2"></i>
+            </a>
           </Col>
         </Row>
         <Row className="pt-5">
