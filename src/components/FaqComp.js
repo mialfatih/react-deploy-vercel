@@ -9,7 +9,7 @@ const FaqComp = () => {
           <Col>
             <h2 className="text-center fw-bold">Yang biasa ditanyakan</h2>
             <p className="text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Buat yang mau tau - tau aja abisnya biasa.
               Dignissimos, excepturi?
             </p>
           </Col>
