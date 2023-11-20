@@ -10,7 +10,7 @@ const FaqComp = () => {
             <h2 className="text-center fw-bold">Yang biasa ditanyakan</h2>
             <p className="text-center">
               Kalau gatau harus nanya, karna apa?
-              karna aku adalah yin dan tidak akan pernah berubah apapun yang terjadi
+              karna aku <br/> adalah yin dan tidak akan pernah berubah apapun yang terjadi
             </p>
           </Col>
         </Row>
