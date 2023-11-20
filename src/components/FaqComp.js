@@ -9,8 +9,8 @@ const FaqComp = () => {
           <Col>
             <h2 className="text-center fw-bold">Yang biasa ditanyakan</h2>
             <p className="text-center">
-              Buat yang mau tau - tau aja abisnya biasa.
-              Dignissimos, excepturi?
+              Kalau gatau harus nanya, karna apa?
+              karna aku adalah yin dan tidak akan pernah berubah apapun yang terjadi
             </p>
           </Col>
         </Row>
